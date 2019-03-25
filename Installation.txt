@@ -50,4 +50,4 @@ A warning will display on the site index until its removed
 
 9) You should properly secure backup-database.php and the backups dir. (htaccess/htpasswd)
 
-Any problems please visit www.torrenttrader.org or https://www.devs-zone.xyz
+Any problems please visit www.torrenttrader.org or https://torrenttrader.xyz
